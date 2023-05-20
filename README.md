@@ -1,6 +1,10 @@
-### Hi, my name is Kim Sujin 👋
+<div align="center">
 
-:star2: Skills
+ <h3>Hi, my name is Sujin Kim 👋</h3>
+
+
+<hr>
+<h3>:star2: Skills</h3>
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -23,7 +27,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinijinijin&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinijinijin&layout=compact&theme=chartreuse-dark)
-
+</div>
 <!--
 **jinijinijin/jinijinijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
