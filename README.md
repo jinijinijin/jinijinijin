@@ -24,7 +24,7 @@
 
 
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=les0498&layout=compact&theme=cobalt)
+
 </div>
 <!--
 **jinijinijin/jinijinijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
